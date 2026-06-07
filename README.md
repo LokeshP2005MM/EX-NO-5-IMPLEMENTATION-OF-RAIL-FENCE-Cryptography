@@ -1,5 +1,6 @@
 # EX-NO-5-IMPLEMENTATION-OF-RAIL-FENCE
-
+## NAME: LOKESH P
+## REG NO: 2305001015
 ## AIM:
 To write a C program to implement the rail fence transposition technique.
 
@@ -65,6 +66,8 @@ int main()
 }
 ```
 ## OUTPUT
+<img width="466" height="267" alt="image" src="https://github.com/user-attachments/assets/53aa1cc7-96fa-41b8-a5a3-b87f713d885e" />
+
 
 
 ## RESULT
